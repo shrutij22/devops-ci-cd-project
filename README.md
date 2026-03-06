@@ -136,4 +136,4 @@ Then open the Jenkins dashboard and install the suggested plugins.
 ## 👨‍💻 Author
 
 Shruti Joshi
-DevOps Intern | DevOps & Cloud Enthusiast
+DevOps & Cloud Enthusiast
